@@ -10,6 +10,7 @@ public abstract class AbstractClass {
 	public void car (){
 		System.out.println("my car is audi ");
 		
+		int  a = 5;
 		
  		
 		
